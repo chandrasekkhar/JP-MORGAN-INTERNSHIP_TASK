@@ -1,2 +1,2 @@
-# JP-MORGAN-INTERNSHIP_TASK
-Solution of stock price data feed
+# JPMC Task 2
+Starter repo for task 2 of JPMC's Forage program
